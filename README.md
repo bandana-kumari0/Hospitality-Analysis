@@ -1,5 +1,4 @@
-![Screenshot (52)](https://github.com/bandana-kumari0/Hospitality-Domain/assets/84391573/a9a467bd-9809-49cd-9f63-75d8e977f20d)![Screenshot (52)](https://github.com/bandana-kumari0/Hospitality-Domain/assets/84391573/ceb76a5e-e1a3-4032-bc21-b619108eadcc)[Link to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzBkNzIwOGYtYThkMC00ZDc5LWJkNzUtYzNhZWRhZjI2YzQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-)
+[Link to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzBkNzIwOGYtYThkMC00ZDc5LWJkNzUtYzNhZWRhZjI2YzQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 # AtliQ Grands' Revenue Strategy: A Data-Driven Report
 Atliq Grands has experienced declining market share and revenue due to competition and management decisions. The project focuses on revitalizing the business by leveraging hospitality analytics to make informed data driven decisions.
