@@ -1,4 +1,4 @@
-[Link to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzBkNzIwOGYtYThkMC00ZDc5LWJkNzUtYzNhZWRhZjI2YzQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+![Screenshot (52)](https://github.com/bandana-kumari0/Hospitality-Domain/assets/84391573/a9a467bd-9809-49cd-9f63-75d8e977f20d)![Screenshot (52)](https://github.com/bandana-kumari0/Hospitality-Domain/assets/84391573/ceb76a5e-e1a3-4032-bc21-b619108eadcc)[Link to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzBkNzIwOGYtYThkMC00ZDc5LWJkNzUtYzNhZWRhZjI2YzQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 )
 
 # AtliQ Grands' Revenue Strategy: A Data-Driven Report
@@ -53,3 +53,15 @@ AtliQ Exotica's stellar performance highlights the potential for replication acr
 In conclusion, data intelligence has unlocked a world of possibilities for AtliQ Grands. By leveraging these insights, the hotel chain can regain its competitive edge and secure its position as a leader in the luxury/business hotels category.
 
 This is not just a project; it's a success story in the making, driven by data and innovation.
+
+
+![Screenshot (52)](https://github.com/bandana-kumari0/Hospitality-Domain/assets/84391573/b388dfe4-b21e-4055-8e03-f553c294de88)
+
+
+
+![Screenshot (53)](https://github.com/bandana-kumari0/Hospitality-Domain/assets/84391573/9814a2f6-715c-4f95-b228-bc9a11436022)
+
+
+![Screenshot (54)](https://github.com/bandana-kumari0/Hospitality-Domain/assets/84391573/9a595731-d0da-4624-8ae0-819ed171c3f5)
+
+
