@@ -58,9 +58,3 @@ This is not just a project; it's a success story in the making, driven by data a
 
 
 
-![Screenshot (53)](https://github.com/bandana-kumari0/Hospitality-Domain/assets/84391573/9814a2f6-715c-4f95-b228-bc9a11436022)
-
-
-![Screenshot (54)](https://github.com/bandana-kumari0/Hospitality-Domain/assets/84391573/9a595731-d0da-4624-8ae0-819ed171c3f5)
-
-
